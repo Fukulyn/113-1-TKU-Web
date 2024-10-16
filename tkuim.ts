@@ -1,0 +1,1 @@
+console.log("Hello TKUIM！This is ts");
